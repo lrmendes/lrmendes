@@ -19,10 +19,10 @@
 - :man_student: Bachelor in Computer Science at <a href="http://www.utfpr.edu.br" target="_blank" rel="noreferrer">Universidade Tecnológica Federal do Paraná</a> (:brazil:)
 
 ### Technologies: 
-  -  JavaScript/TypeScript: React & Node
-  -  Elastic Stack: Elastic Search, Kibana, Logstash
-  -  Cloud: Amazon Web Services (AWS)
-  -  Tools: Jenkins; Docker, Git...
+  -  <b>JavaScript/TypeScript</b>: React & Node
+  -  <b>Elastic Stack</b>: Elastic Search, Kibana, Logstash
+  -  <b>Cloud</b>: Amazon Web Services (AWS)
+  -  <b>Tools</b>: Jenkins; Docker, Git...
 
 <div style="display: inline_block">
   <img src='https://raw.githubusercontent.com/devicons/devicon/v2.13.0/icons/javascript/javascript-original.svg' width="48px" height="48px" />  
