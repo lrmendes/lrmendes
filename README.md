@@ -19,11 +19,28 @@
 - :man_student: Bachelor in Computer Science at <a href="http://www.utfpr.edu.br" target="_blank" rel="noreferrer">Universidade Tecnológica Federal do Paraná</a> (:brazil:)
 
 ### Technologies: 
-  - 🚀JavaScript/TypeScript: React & Node
-  - :open_book:	Elastic Stack: Elastic Search, Kibana, Logstash
-  - :cloud:	Amazon Web Services (AWS)
+  -  JavaScript/TypeScript: React & Node
+  -  Elastic Stack: Elastic Search, Kibana, Logstash
+  -  Cloud: Amazon Web Services (AWS)
+  -  Tools: Jenkins; Docker, Git...
 
-<div style="width:100%;display:flex;justify-content:space-between">
+<div style="display: inline_block">
+  <img src='https://raw.githubusercontent.com/devicons/devicon/v2.13.0/icons/javascript/javascript-original.svg' width="48px" height="48px" />  
+  <img src='https://raw.githubusercontent.com/devicons/devicon/v2.13.0/icons/typescript/typescript-original.svg' width="48px" height="48px" />  
+  <a href='https://reactjs.org' target="_blank" rel="noreferrer"><img src='https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg' width="48px" height="48px" /></a>  
+  <a href='https://nodejs.org' target="_blank" rel="noreferrer"><img src='https://raw.githubusercontent.com/devicons/devicon/v2.13.0/icons/nodejs/nodejs-original-wordmark.svg' width="48px" height="48px" /></a>  
+  <a href='https://www.elastic.co' target="_blank" rel="noreferrer"><img src='https://avatars.githubusercontent.com/u/6764390?s=200&v=4' width="48px" height="48px" /></a>  
+  <a href='https://www.mongodb.com' target="_blank" rel="noreferrer"><img src='https://raw.githubusercontent.com/devicons/devicon/v2.13.0/icons/mongodb/mongodb-original-wordmark.svg' width="48px" height="48px"/></a>  
+  <a href='https://aws.amazon.com' target="_blank" rel="noreferrer"><img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg' width="48px" height="48px" /></a>  
+  <a href='https://www.docker.com' target="_blank" rel="noreferrer"><img src='https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg' width="48px" height="48px" /></a>  
+  <a href='https://www.jenkins.io' target="_blank" rel="noreferrer"><img src='https://raw.githubusercontent.com/devicons/devicon/v2.13.0/icons/jenkins/jenkins-original.svg' width="px" height="48px"/></a>  
+</div>
+<br/>
+
+
+
+
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmendes&count_private=true&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 <div>
