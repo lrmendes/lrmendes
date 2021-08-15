@@ -22,6 +22,13 @@
   - 🚀JavaScript/TypeScript: React & Node
   - :open_book:	Elastic Stack: Elastic Search, Kibana, Logstash
   - :cloud:	Amazon Web Services (AWS)
+
+<div style="width:100%;display:flex;justify-content:space-between">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmendes&count_private=true&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+<div>
+
+
 <!--
 - ⭐ I'm currently .
 - 
