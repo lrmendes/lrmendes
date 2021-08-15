@@ -6,7 +6,7 @@
 
 ### Work
 
-- :man_office_worker: Full Stack Engineer working on <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal).
+- :man_office_worker: **Full Stack Engineer** working on <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal).
 - :mage_man: Main focus in the development of tools and solutions for Quality Assurance as part of QA-Team.
 
 ### Open Source Activities
@@ -15,8 +15,8 @@
 
 ### Education
 
-- :man_student: Master in Informatics at <a href="http://ipb.pt" target="_blank" rel="noreferrer">Instituto Politécnico de Bragança</a> (:portugal:)
-- :man_student: Bachelor in Computer Science at <a href="http://www.utfpr.edu.br" target="_blank" rel="noreferrer">Universidade Tecnológica Federal do Paraná</a> (:brazil:)
+- :man_student: **Master in Informatics** at <a href="http://ipb.pt" target="_blank" rel="noreferrer">Instituto Politécnico de Bragança</a> (:portugal:)
+- :man_student: **Bachelor in Computer Science** at <a href="http://www.utfpr.edu.br" target="_blank" rel="noreferrer">Universidade Tecnológica Federal do Paraná</a> (:brazil:)
 
 ### Technologies: 
   -  <b>JavaScript/TypeScript</b>: React & Node
