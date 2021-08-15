@@ -11,7 +11,7 @@
 
 ### Open Source Activities
 
-- :computer: Member of the KICS Team (Checkmarx), colaborating in the devoplment of this <span style="color:blue"> open source </span> powerfull security software focused in Infrastructure as Code (IaC). <b>Discover more about KICS in its <a href="https://github.com/Checkmarx/kics" target="_blank" rel="noreferrer">Github Repository</a></b>.
+- :computer: Member of the <a href="https://github.com/Checkmarx/kics/graphs/contributors" target="_blank" rel="noreferrer">KICS Team</a> (Checkmarx), collaborating in the development of this powerful open-source security software focused on Infrastructure as Code (IaC). <b>Discover more about KICS in its <a href="https://github.com/Checkmarx/kics" target="_blank" rel="noreferrer">Github Repository</a></b>.
 
 ### Education
 
