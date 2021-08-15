@@ -18,6 +18,10 @@
 - :man_student: Master in Informatics at <a href="http://ipb.pt" target="_blank" rel="noreferrer">Instituto Politécnico de Bragança</a> (:portugal:)
 - :man_student: Bachelor in Computer Science at <a href="http://www.utfpr.edu.br" target="_blank" rel="noreferrer">Universidade Tecnológica Federal do Paraná</a> (:brazil:)
 
+#### Technologies: 
+  - 🚀JavaScript/TypeScript: React & Node
+  - :open_book:	Elastic Stack: Elastic Search, Kibana, Logstash
+  - :cloud:	Amazon Web Services (AWS)
 <!--
 - ⭐ I'm currently .
 - 
