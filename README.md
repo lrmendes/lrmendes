@@ -1,5 +1,8 @@
 ## Hi Community 👋
 
+### [Update] March/2021 - currently 
+- I'm working in another Github account: https://github.com/cxlucas
+
 ### Personal
 - :man: Lucas Mendes, Brazilian, 23 years.
 - :house:	Living in Portugal since 2020.
