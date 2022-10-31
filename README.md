@@ -1,20 +1,20 @@
 ## Hi Community 👋
 
-### [Update] March/2021 - currently 
-- I'm working in another Github account: https://github.com/cxlucas
-
 ### Personal
-- :man: Lucas Mendes, Brazilian, 23 years.
+- :man: Lucas Mendes, Brazilian, 24 years.
 - :house:	Living in Portugal since 2020.
 
-### Work
+### Current Work
 
-- :man_office_worker: **Full Stack Engineer** working on <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal).
-- :mage_man: Main focus in the development of tools and solutions for Quality Assurance as part of QA-Team.
+- [2022+] :man_office_worker: **Front-end Engineer** working on <a href="https://nokia.com" target="_blank" rel="noreferrer">NOKIA</a> (Portugal) with focus on React.
+
+### Work History
+
+- [2021/2022]👨‍💻 Worked as **Full Stack Javascript Engineer** for <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal).
 
 ### Open Source Activities
 
-- :computer: Member of the <a href="https://github.com/Checkmarx/kics/graphs/contributors" target="_blank" rel="noreferrer">KICS Team</a> (Checkmarx), collaborating in the development of this powerful open-source security software focused on Infrastructure as Code (IaC). <b>Discover more about KICS in its <a href="https://github.com/Checkmarx/kics" target="_blank" rel="noreferrer">Github Repository</a></b>.
+- :computer: Member of the <a href="https://github.com/Checkmarx/kics/graphs/contributors" target="_blank" rel="noreferrer">KICS Team</a> (Checkmarx) from 2021 to 2022, collaborating in the development of this powerful open-source security software focused on Infrastructure as Code (IaC). <b>Discover more about KICS in its <a href="https://github.com/Checkmarx/kics" target="_blank" rel="noreferrer">Github Repository</a></b>.
 
 ### Education
 
