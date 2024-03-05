@@ -4,13 +4,11 @@
 - :man: Lucas Mendes, Brazilian, 24 years.
 - :house:	Living in Portugal since 2020.
 
-### Current Work
+### Work
 
-- [2022+] :man_office_worker: **Front-end Engineer** working on <a href="https://nokia.com" target="_blank" rel="noreferrer">NOKIA</a> (Portugal) with focus on React.
+- [06/2022 - current] :man_office_worker: **Front-end Engineer** working at <a href="https://nokia.com" target="_blank" rel="noreferrer">NOKIA</a> (Portugal) - focus on Typescript - React.
 
-### Work History
-
-- [2021/2022]👨‍💻 Worked as **Full Stack Javascript Engineer** for <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal).
+- [02/2021 - 06/2022]👨‍💻 **Full Stack Javascript Engineer** at <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal) - focus on Typescript - React and Node.
 
 ### Open Source Activities
 
