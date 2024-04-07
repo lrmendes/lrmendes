@@ -1,18 +1,14 @@
-## Hi Community 👋
-
-### Personal
-- :man: Lucas Mendes, Brazilian, 24 years.
-- :house:	Living in Portugal since 2020.
-
 ### Work
 
-- [06/2022 - current] :man_office_worker: **Front-end Engineer** working at <a href="https://nokia.com" target="_blank" rel="noreferrer">NOKIA</a> (Portugal) - focus on Typescript - React.
+- [04/2024 - current] :man_office_worker: **Sr. Front-end Engineer** working at <a href="https://www.motorolasolutions.com" target="_blank" rel="noreferrer">MOTOROLA SOLUTIONS</a> (Portugal) - focus on Typescript - React.
 
-- [02/2021 - 06/2022]👨‍💻 **Full Stack Javascript Engineer** at <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal) - focus on Typescript - React and Node.
+- [06/2022 - 03/2024] :man_office_worker: **Front-end Engineer** working at <a href="https://nokia.com" target="_blank" rel="noreferrer">NOKIA</a> (Portugal) - focus on Typescript - React.
+
+- [02/2021 - 06/2022] :man_office_worker: **Full Stack Javascript Engineer** at <a href="https://checkmarx.com" target="_blank" rel="noreferrer">Checkmarx</a> (Portugal) - focus on Typescript - React and Node.
 
 ### Open Source Activities
 
-- :computer: Member of the <a href="https://github.com/Checkmarx/kics/graphs/contributors" target="_blank" rel="noreferrer">KICS Team</a> (Checkmarx) from 2021 to 2022, collaborating in the development of this powerful open-source security software focused on Infrastructure as Code (IaC). <b>Discover more about KICS in its <a href="https://github.com/Checkmarx/kics" target="_blank" rel="noreferrer">Github Repository</a></b>.
+- :computer: former member of the <a href="https://github.com/Checkmarx/kics/graphs/contributors" target="_blank" rel="noreferrer">KICS Team</a> (Checkmarx) from 2021 to 2022, collaborating in the development of this powerful open-source security software focused on Infrastructure as Code (IaC). <b>Discover more about KICS in its <a href="https://github.com/Checkmarx/kics" target="_blank" rel="noreferrer">Github Repository</a></b>.
 
 ### Education
 
